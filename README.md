@@ -1,0 +1,4 @@
+soduko-solver
+=============
+
+Solves Sodukos
